@@ -34,9 +34,9 @@ pip install pandas
 
 ##### 疫情变化图
 
-![1594617420880](https://github.com/853108389/disease/tree/master/src1594617420880.png)
+![1594617420880](https://github.com/853108389/disease/tree/master/src/1594617420880.png)
 
-![1594617420880](https://github.com/853108389/disease/tree/master/src1594617432169.png)
+![1594617420880](https://github.com/853108389/disease/tree/master/src/1594617432169.png)
 
 ##### 统计分析图
 
