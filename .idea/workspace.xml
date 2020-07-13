@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6f5dd16-dc79-47c0-a6cf-298ef80baf22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1594617420880.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1594617432169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SIR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_age.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_infection_case.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +28,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SIR.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -99,6 +98,7 @@
         <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/sir.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -121,11 +121,6 @@
               <item name="疫情可视化" type="b2602c69:ProjectViewProjectNode" />
               <item name="疫情可视化" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="疫情可视化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="疫情可视化" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -143,6 +138,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\PycharmProjects\疫情可视化\src" />
       <recent name="D:\workspace\PycharmProjects\疫情可视化" />
     </key>
   </component>
@@ -221,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594182916218</updated>
       <workItem from="1594182917633" duration="13479000" />
-      <workItem from="1594616964292" duration="671000" />
+      <workItem from="1594616964292" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;疫情可视化&quot;">
       <created>1594617010459</created>
@@ -230,14 +226,29 @@
       <option name="project" value="LOCAL" />
       <updated>1594617010459</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;疫情可视化&quot;">
+      <created>1594617714141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594617714141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;疫情可视化&quot;">
+      <created>1594617798622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594617798622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14150000" />
+    <option name="totallyTimeSpent" value="14401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -439,6 +450,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SIR.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
